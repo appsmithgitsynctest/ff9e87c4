@@ -1316,7 +1316,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Search2_getAllCustomers",
               "name": "getAllCustomers",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -1326,7 +1325,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Search2_getAllOrders",
               "name": "getAllOrders",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
